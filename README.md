@@ -29,6 +29,6 @@ The interactive Tableau dashboard presents the key activity and sleep trends ide
 
 ### Dashboard Preview
 
-[![Bellabeat Wellness Dashboard](images/Bellabeat_Wellness_Dashboard.png)](https://public.tableau.com/app/profile/peace.okei/viz/BellabeatSmartDeviceUsageAnalysis_17853771619350/BellabeatWellnessDashboard?publish=yes)
+[![Bellabeat Wellness Dashboard](image/Bellabeat%20Wellness%20Dashboard.png)](https://public.tableau.com/app/profile/peace.okei/viz/BellabeatSmartDeviceUsageAnalysis_17853771619350/BellabeatWellnessDashboard?publish=yes)
 
 *Click the dashboard image to explore the interactive visualization on Tableau Public.*
