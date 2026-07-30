@@ -26,3 +26,9 @@ Bellabeat has the opportunity to expand its presence in the global smart-device 
 
 The interactive Tableau dashboard presents the key activity and sleep trends identified in the analysis.
 [View the Bellabeat Wellness Dashboard](https://public.tableau.com/app/profile/peace.okei/viz/BellabeatSmartDeviceUsageAnalysis_17853771619350/BellabeatWellnessDashboard?publish=yes)
+
+### Dashboard Preview
+
+[![Bellabeat Wellness Dashboard](images/bellabeat_dashboard.png)](https://public.tableau.com/app/profile/peace.okei/viz/BellabeatSmartDeviceUsageAnalysis_17853771619350/BellabeatWellnessDashboard?publish=yes)
+
+*Click the dashboard image to explore the interactive visualization on Tableau Public.*
