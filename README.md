@@ -15,3 +15,14 @@ Bellabeat has the opportunity to expand its presence in the global smart-device 
 - Sando Mur, Bellabeat cofounder and executive team member
 - Bellabeat marketing analytics team
 - Bellabeat marketing and executive leadership teams
+
+## Tools Used
+
+- Google BigQuery: Data storage, validation, cleaning, transformation, and SQL analysis
+- Tableau Public: Interactive dashboard development and data visualization
+- GitHub: Project documentation and SQL portfolio presentation
+
+## Interactive Dashboard
+
+The interactive Tableau dashboard presents the key activity and sleep trends identified in the analysis.
+[View the Bellabeat Wellness Dashboard](https://public.tableau.com/app/profile/peace.okei/viz/BellabeatSmartDeviceUsageAnalysis_17853771619350/BellabeatWellnessDashboard?publish=yes)
