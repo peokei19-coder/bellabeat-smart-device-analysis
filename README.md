@@ -69,4 +69,74 @@ Within 179 valid matched activity-and-sleep records, sleep duration had only a w
 
 ```text
 r = -0.203
+```
 
+## Business Recommendations
+
+### 1. Promote personalized and progressive activity goals
+
+Users averaged approximately 7,555 daily steps and reached the 10,000-step benchmark on only 32.07% of valid days. Rather than presenting 10,000 steps as the only measure of success, the Bellabeat app could recommend goals based on each user’s current activity level.
+
+For example, Bellabeat could:
+
+- Establish a personal activity baseline during onboarding
+- Recommend gradual weekly step increases
+- Celebrate improvements and consistency, not only goal completion
+- Offer adaptive challenges based on the user’s recent performance
+
+Marketing messages could position Bellabeat as a supportive wellness companion that helps users make sustainable progress without relying on unrealistic, one-size-fits-all expectations.
+
+### 2. Deliver activity prompts during high-opportunity periods
+
+Activity was highest around lunchtime and during the evening, with the strongest hourly peaks occurring at approximately 12:00 p.m., 6:00 p.m., and 7:00 p.m.
+
+Bellabeat could use these behavioral windows to deliver personalized movement prompts, such as:
+
+- Midday walking reminders
+- Short lunch-break movement challenges
+- After-work activity suggestions
+- Evening progress updates and step-goal reminders
+
+Notifications should remain customizable so users can select preferred times and avoid receiving excessive or irrelevant messages.
+
+### 3. Create targeted campaigns for lower-activity days
+
+Tuesday recorded the lowest average daily step count, while Monday and Saturday had the highest averages.
+
+Bellabeat could introduce a Tuesday-focused engagement campaign, such as:
+
+- “Tuesday Momentum” step challenges
+- Short guided movement sessions
+- Midweek accountability reminders
+- Bonus rewards for completing personalized activity goals
+
+Rather than treating the lower activity level as a weakness, Bellabeat could position Tuesday as an opportunity to rebuild momentum early in the week.
+
+### 4. Combine sleep duration with sleep-continuity insights
+
+Users averaged 7.33 hours of sleep, but approximately one-quarter of valid nights were classified as fragmented sleep.
+
+The Bellabeat app could help users look beyond total sleep duration by highlighting:
+
+- Sleep consistency
+- Restless minutes
+- Time spent in bed compared with time asleep
+- Single-session versus fragmented sleep patterns
+- Weekly changes in sleep behavior
+
+Marketing content could emphasize that healthy sleep is not only about the number of hours recorded, but also about understanding personal patterns and building consistent routines.
+
+### 5. Position Bellabeat as an integrated wellness platform
+
+The analysis found only weak relationships between daily sleep duration and activity measures. This suggests that sleep and activity should not be presented as having a simple cause-and-effect relationship.
+
+Instead, Bellabeat could position its app and membership as tools for understanding several connected dimensions of wellness, including:
+
+- Activity
+- Sleep
+- Stress
+- Mindfulness
+- Nutrition
+- Hydration
+
+This broader positioning would allow Bellabeat to market personalized wellness guidance without making unsupported claims that improving one behavior will automatically improve another.
